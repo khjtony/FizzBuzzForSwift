@@ -1,0 +1,382 @@
+2017-02-07 12:02:53,388 [Worker-12] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Collecting project info '/pom.xml' /Users/khjtony/Dropbox/Documents/jobs/1st_touch/Swift_Navigation/FizzBuzzForSwift/pom.xml
+2017-02-07 12:02:56,170 [Worker-12] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.khjtony:FizzBuzzForSwift:0.0.1-SNAPSHOT @ /Users/khjtony/Dropbox/Documents/jobs/1st_touch/Swift_Navigation/FizzBuzzForSwift/pom.xml.
+2017-02-07 12:02:57,395 [Worker-12] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /FizzBuzzForSwift/src/main/java
+2017-02-07 12:02:57,400 [Worker-12] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /FizzBuzzForSwift/src/test/java
+2017-02-07 12:03:00,053 [Worker-12] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 1 project(s) in 6 sec
+2017-02-07 12:03:00,970 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-02-07 12:03:00,971 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/khjtony/Dropbox/Documents/jobs/1st_touch/Swift_Navigation/FizzBuzzForSwift/src/main/resources
+2017-02-07 12:03:00,986 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-02-07 12:03:00,986 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/khjtony/Dropbox/Documents/jobs/1st_touch/Swift_Navigation/FizzBuzzForSwift/src/test/resources
+2017-02-07 12:04:22,791 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-02-07 12:04:22,791 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/khjtony/Dropbox/Documents/jobs/1st_touch/Swift_Navigation/FizzBuzzForSwift/src/main/resources
+2017-02-07 12:04:22,793 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-02-07 12:04:22,793 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/khjtony/Dropbox/Documents/jobs/1st_touch/Swift_Navigation/FizzBuzzForSwift/src/test/resources
+2017-02-07 12:04:42,937 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-02-07 12:04:42,938 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/khjtony/Dropbox/Documents/jobs/1st_touch/Swift_Navigation/FizzBuzzForSwift/src/main/resources
+2017-02-07 12:04:42,940 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-02-07 12:04:42,940 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/khjtony/Dropbox/Documents/jobs/1st_touch/Swift_Navigation/FizzBuzzForSwift/src/test/resources
+2017-02-07 12:04:59,929 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-02-07 12:04:59,929 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/khjtony/Dropbox/Documents/jobs/1st_touch/Swift_Navigation/FizzBuzzForSwift/src/main/resources
+2017-02-07 12:04:59,931 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-02-07 12:04:59,931 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/khjtony/Dropbox/Documents/jobs/1st_touch/Swift_Navigation/FizzBuzzForSwift/src/test/resources
+2017-02-07 13:20:27,023 [Worker-24] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-02-07 13:20:27,023 [Worker-24] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/khjtony/Dropbox/Documents/jobs/1st_touch/Swift_Navigation/FizzBuzzForSwift/src/main/resources
+2017-02-07 13:20:27,025 [Worker-24] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-02-07 13:20:27,026 [Worker-24] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/khjtony/Dropbox/Documents/jobs/1st_touch/Swift_Navigation/FizzBuzzForSwift/src/test/resources
+2017-02-07 13:21:02,991 [Worker-29] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-02-07 13:21:02,991 [Worker-29] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/khjtony/Dropbox/Documents/jobs/1st_touch/Swift_Navigation/FizzBuzzForSwift/src/main/resources
+2017-02-07 13:21:02,998 [Worker-29] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-02-07 13:21:02,998 [Worker-29] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/khjtony/Dropbox/Documents/jobs/1st_touch/Swift_Navigation/FizzBuzzForSwift/src/test/resources
+2017-02-07 13:23:54,741 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-02-07 13:23:54,741 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/khjtony/Dropbox/Documents/jobs/1st_touch/Swift_Navigation/FizzBuzzForSwift/src/main/resources
+2017-02-07 13:23:54,743 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-02-07 13:23:54,744 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/khjtony/Dropbox/Documents/jobs/1st_touch/Swift_Navigation/FizzBuzzForSwift/src/test/resources
+2017-02-07 13:25:58,804 [Worker-35] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-02-07 13:25:58,804 [Worker-35] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/khjtony/Dropbox/Documents/jobs/1st_touch/Swift_Navigation/FizzBuzzForSwift/src/main/resources
+2017-02-07 13:25:58,810 [Worker-35] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-02-07 13:25:58,811 [Worker-35] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/khjtony/Dropbox/Documents/jobs/1st_touch/Swift_Navigation/FizzBuzzForSwift/src/test/resources
+2017-02-07 13:26:43,084 [Worker-32] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-02-07 13:26:43,084 [Worker-32] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/khjtony/Dropbox/Documents/jobs/1st_touch/Swift_Navigation/FizzBuzzForSwift/src/main/resources
+2017-02-07 13:26:43,085 [Worker-32] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-02-07 13:26:43,086 [Worker-32] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/khjtony/Dropbox/Documents/jobs/1st_touch/Swift_Navigation/FizzBuzzForSwift/src/test/resources
+2017-02-07 13:27:06,451 [Worker-35] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-02-07 13:27:06,451 [Worker-35] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/khjtony/Dropbox/Documents/jobs/1st_touch/Swift_Navigation/FizzBuzzForSwift/src/main/resources
+2017-02-07 13:27:06,454 [Worker-35] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-02-07 13:27:06,455 [Worker-35] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/khjtony/Dropbox/Documents/jobs/1st_touch/Swift_Navigation/FizzBuzzForSwift/src/test/resources
+2017-02-07 13:27:56,078 [Worker-36] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-02-07 13:27:56,080 [Worker-36] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/khjtony/Dropbox/Documents/jobs/1st_touch/Swift_Navigation/FizzBuzzForSwift/src/main/resources
+2017-02-07 13:27:56,084 [Worker-36] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-02-07 13:27:56,084 [Worker-36] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/khjtony/Dropbox/Documents/jobs/1st_touch/Swift_Navigation/FizzBuzzForSwift/src/test/resources
+2017-02-07 13:29:14,446 [Worker-33] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-02-07 13:29:14,447 [Worker-33] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/khjtony/Dropbox/Documents/jobs/1st_touch/Swift_Navigation/FizzBuzzForSwift/src/main/resources
+2017-02-07 13:29:14,449 [Worker-33] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-02-07 13:29:14,449 [Worker-33] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/khjtony/Dropbox/Documents/jobs/1st_touch/Swift_Navigation/FizzBuzzForSwift/src/test/resources
+2017-02-07 13:29:45,913 [Worker-32] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-02-07 13:29:45,913 [Worker-32] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/khjtony/Dropbox/Documents/jobs/1st_touch/Swift_Navigation/FizzBuzzForSwift/src/main/resources
+2017-02-07 13:29:45,915 [Worker-32] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-02-07 13:29:45,915 [Worker-32] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/khjtony/Dropbox/Documents/jobs/1st_touch/Swift_Navigation/FizzBuzzForSwift/src/test/resources
+2017-02-07 14:08:42,807 [Worker-42] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-02-07 14:08:42,807 [Worker-42] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/khjtony/Dropbox/Documents/jobs/1st_touch/Swift_Navigation/FizzBuzzForSwift/src/main/resources
+2017-02-07 14:08:42,808 [Worker-42] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-02-07 14:08:42,809 [Worker-42] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/khjtony/Dropbox/Documents/jobs/1st_touch/Swift_Navigation/FizzBuzzForSwift/src/test/resources
+2017-02-07 14:09:40,455 [Worker-42] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-02-07 14:09:40,455 [Worker-42] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/khjtony/Dropbox/Documents/jobs/1st_touch/Swift_Navigation/FizzBuzzForSwift/src/main/resources
+2017-02-07 14:09:40,457 [Worker-42] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-02-07 14:09:40,457 [Worker-42] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/khjtony/Dropbox/Documents/jobs/1st_touch/Swift_Navigation/FizzBuzzForSwift/src/test/resources
+2017-02-07 14:10:03,159 [Worker-39] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-02-07 14:10:03,160 [Worker-39] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/khjtony/Dropbox/Documents/jobs/1st_touch/Swift_Navigation/FizzBuzzForSwift/src/main/resources
+2017-02-07 14:10:03,165 [Worker-39] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-02-07 14:10:03,165 [Worker-39] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/khjtony/Dropbox/Documents/jobs/1st_touch/Swift_Navigation/FizzBuzzForSwift/src/test/resources
+2017-02-07 14:11:10,485 [Worker-43] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-02-07 14:11:10,485 [Worker-43] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/khjtony/Dropbox/Documents/jobs/1st_touch/Swift_Navigation/FizzBuzzForSwift/src/main/resources
+2017-02-07 14:11:10,486 [Worker-43] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-02-07 14:11:10,487 [Worker-43] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/khjtony/Dropbox/Documents/jobs/1st_touch/Swift_Navigation/FizzBuzzForSwift/src/test/resources
+2017-02-07 14:11:46,157 [Worker-42] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-02-07 14:11:46,158 [Worker-42] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/khjtony/Dropbox/Documents/jobs/1st_touch/Swift_Navigation/FizzBuzzForSwift/src/main/resources
+2017-02-07 14:11:46,160 [Worker-42] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-02-07 14:11:46,160 [Worker-42] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/khjtony/Dropbox/Documents/jobs/1st_touch/Swift_Navigation/FizzBuzzForSwift/src/test/resources
+2017-02-07 14:12:10,257 [Worker-44] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-02-07 14:12:10,258 [Worker-44] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/khjtony/Dropbox/Documents/jobs/1st_touch/Swift_Navigation/FizzBuzzForSwift/src/main/resources
+2017-02-07 14:12:10,260 [Worker-44] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-02-07 14:12:10,260 [Worker-44] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/khjtony/Dropbox/Documents/jobs/1st_touch/Swift_Navigation/FizzBuzzForSwift/src/test/resources
+2017-02-07 14:13:29,559 [Worker-45] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-02-07 14:13:29,560 [Worker-45] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/khjtony/Dropbox/Documents/jobs/1st_touch/Swift_Navigation/FizzBuzzForSwift/src/main/resources
+2017-02-07 14:13:29,562 [Worker-45] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-02-07 14:13:29,563 [Worker-45] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/khjtony/Dropbox/Documents/jobs/1st_touch/Swift_Navigation/FizzBuzzForSwift/src/test/resources
+2017-02-07 14:17:33,992 [Worker-47] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-02-07 14:17:33,992 [Worker-47] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/khjtony/Dropbox/Documents/jobs/1st_touch/Swift_Navigation/FizzBuzzForSwift/src/main/resources
+2017-02-07 14:17:33,994 [Worker-47] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-02-07 14:17:33,994 [Worker-47] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/khjtony/Dropbox/Documents/jobs/1st_touch/Swift_Navigation/FizzBuzzForSwift/src/test/resources
+2017-02-07 14:17:52,664 [Worker-39] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-02-07 14:17:52,664 [Worker-39] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/khjtony/Dropbox/Documents/jobs/1st_touch/Swift_Navigation/FizzBuzzForSwift/src/main/resources
+2017-02-07 14:17:52,668 [Worker-39] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-02-07 14:17:52,669 [Worker-39] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/khjtony/Dropbox/Documents/jobs/1st_touch/Swift_Navigation/FizzBuzzForSwift/src/test/resources
+2017-02-07 14:36:29,014 [Worker-56] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-02-07 14:36:29,014 [Worker-56] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/khjtony/Dropbox/Documents/jobs/1st_touch/Swift_Navigation/FizzBuzzForSwift/src/main/resources
+2017-02-07 14:36:29,017 [Worker-56] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-02-07 14:36:29,029 [Worker-56] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/khjtony/Dropbox/Documents/jobs/1st_touch/Swift_Navigation/FizzBuzzForSwift/src/test/resources
+2017-02-07 14:38:28,771 [Worker-57] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-02-07 14:38:28,771 [Worker-57] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/khjtony/Dropbox/Documents/jobs/1st_touch/Swift_Navigation/FizzBuzzForSwift/src/main/resources
+2017-02-07 14:38:28,774 [Worker-57] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-02-07 14:38:28,774 [Worker-57] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/khjtony/Dropbox/Documents/jobs/1st_touch/Swift_Navigation/FizzBuzzForSwift/src/test/resources
+2017-02-07 14:40:09,992 [Worker-58] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-02-07 14:40:09,992 [Worker-58] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/khjtony/Dropbox/Documents/jobs/1st_touch/Swift_Navigation/FizzBuzzForSwift/src/main/resources
+2017-02-07 14:40:09,994 [Worker-58] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-02-07 14:40:09,994 [Worker-58] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/khjtony/Dropbox/Documents/jobs/1st_touch/Swift_Navigation/FizzBuzzForSwift/src/test/resources
+2017-02-07 14:40:19,321 [Worker-58] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-02-07 14:40:19,321 [Worker-58] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/khjtony/Dropbox/Documents/jobs/1st_touch/Swift_Navigation/FizzBuzzForSwift/src/main/resources
+2017-02-07 14:40:19,322 [Worker-58] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-02-07 14:40:19,322 [Worker-58] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/khjtony/Dropbox/Documents/jobs/1st_touch/Swift_Navigation/FizzBuzzForSwift/src/test/resources
+2017-02-07 14:41:08,293 [Worker-59] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.khjtony:FizzBuzzForSwift:0.0.1-SNAPSHOT @ /Users/khjtony/Dropbox/Documents/jobs/1st_touch/Swift_Navigation/FizzBuzzForSwift/pom.xml.
+2017-02-07 14:41:08,573 [Worker-59] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-02-07 14:41:08,574 [Worker-59] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/khjtony/Dropbox/Documents/jobs/1st_touch/Swift_Navigation/FizzBuzzForSwift/src/main/resources
+2017-02-07 14:41:08,576 [Worker-59] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-02-07 14:41:08,576 [Worker-59] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/khjtony/Dropbox/Documents/jobs/1st_touch/Swift_Navigation/FizzBuzzForSwift/src/test/resources
+2017-02-07 14:42:35,142 [Worker-61] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-02-07 14:42:35,142 [Worker-61] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/khjtony/Dropbox/Documents/jobs/1st_touch/Swift_Navigation/FizzBuzzForSwift/src/main/resources
+2017-02-07 14:42:35,144 [Worker-61] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-02-07 14:42:35,144 [Worker-61] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/khjtony/Dropbox/Documents/jobs/1st_touch/Swift_Navigation/FizzBuzzForSwift/src/test/resources
+2017-02-07 14:44:01,983 [Worker-59] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-02-07 14:44:01,983 [Worker-59] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/khjtony/Dropbox/Documents/jobs/1st_touch/Swift_Navigation/FizzBuzzForSwift/src/main/resources
+2017-02-07 14:44:01,985 [Worker-59] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-02-07 14:44:01,985 [Worker-59] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/khjtony/Dropbox/Documents/jobs/1st_touch/Swift_Navigation/FizzBuzzForSwift/src/test/resources
+2017-02-07 14:48:08,874 [Worker-64] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-02-07 14:48:08,874 [Worker-64] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/khjtony/Dropbox/Documents/jobs/1st_touch/Swift_Navigation/FizzBuzzForSwift/src/main/resources
+2017-02-07 14:48:08,875 [Worker-64] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-02-07 14:48:08,876 [Worker-64] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/khjtony/Dropbox/Documents/jobs/1st_touch/Swift_Navigation/FizzBuzzForSwift/src/test/resources
+2017-02-07 14:52:13,734 [Worker-63] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-02-07 14:52:13,734 [Worker-63] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/khjtony/Dropbox/Documents/jobs/1st_touch/Swift_Navigation/FizzBuzzForSwift/src/main/resources
+2017-02-07 14:52:13,738 [Worker-63] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-02-07 14:52:13,739 [Worker-63] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/khjtony/Dropbox/Documents/jobs/1st_touch/Swift_Navigation/FizzBuzzForSwift/src/test/resources
+2017-02-07 14:52:45,858 [Worker-59] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-02-07 14:52:45,858 [Worker-59] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/khjtony/Dropbox/Documents/jobs/1st_touch/Swift_Navigation/FizzBuzzForSwift/src/main/resources
+2017-02-07 14:52:45,859 [Worker-59] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-02-07 14:52:45,860 [Worker-59] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/khjtony/Dropbox/Documents/jobs/1st_touch/Swift_Navigation/FizzBuzzForSwift/src/test/resources
+2017-02-07 14:52:52,690 [Worker-59] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-02-07 14:52:52,690 [Worker-59] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/khjtony/Dropbox/Documents/jobs/1st_touch/Swift_Navigation/FizzBuzzForSwift/src/main/resources
+2017-02-07 14:52:52,692 [Worker-59] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-02-07 14:52:52,692 [Worker-59] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/khjtony/Dropbox/Documents/jobs/1st_touch/Swift_Navigation/FizzBuzzForSwift/src/test/resources
+2017-02-07 14:53:13,712 [Worker-65] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-02-07 14:53:13,712 [Worker-65] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/khjtony/Dropbox/Documents/jobs/1st_touch/Swift_Navigation/FizzBuzzForSwift/src/main/resources
+2017-02-07 14:53:13,717 [Worker-65] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-02-07 14:53:13,717 [Worker-65] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/khjtony/Dropbox/Documents/jobs/1st_touch/Swift_Navigation/FizzBuzzForSwift/src/test/resources
+2017-02-07 14:53:51,652 [Worker-63] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-02-07 14:53:51,652 [Worker-63] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/khjtony/Dropbox/Documents/jobs/1st_touch/Swift_Navigation/FizzBuzzForSwift/src/main/resources
+2017-02-07 14:53:51,658 [Worker-63] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-02-07 14:53:51,658 [Worker-63] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/khjtony/Dropbox/Documents/jobs/1st_touch/Swift_Navigation/FizzBuzzForSwift/src/test/resources
+2017-02-07 14:54:30,529 [Worker-64] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-02-07 14:54:30,530 [Worker-64] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/khjtony/Dropbox/Documents/jobs/1st_touch/Swift_Navigation/FizzBuzzForSwift/src/main/resources
+2017-02-07 14:54:30,531 [Worker-64] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-02-07 14:54:30,531 [Worker-64] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/khjtony/Dropbox/Documents/jobs/1st_touch/Swift_Navigation/FizzBuzzForSwift/src/test/resources
+2017-02-07 14:54:37,866 [Worker-64] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-02-07 14:54:37,867 [Worker-64] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/khjtony/Dropbox/Documents/jobs/1st_touch/Swift_Navigation/FizzBuzzForSwift/src/main/resources
+2017-02-07 14:54:37,868 [Worker-64] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-02-07 14:54:37,868 [Worker-64] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/khjtony/Dropbox/Documents/jobs/1st_touch/Swift_Navigation/FizzBuzzForSwift/src/test/resources
+2017-02-07 14:54:42,522 [Worker-65] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-02-07 14:54:42,522 [Worker-65] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/khjtony/Dropbox/Documents/jobs/1st_touch/Swift_Navigation/FizzBuzzForSwift/src/main/resources
+2017-02-07 14:54:42,524 [Worker-65] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-02-07 14:54:42,524 [Worker-65] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/khjtony/Dropbox/Documents/jobs/1st_touch/Swift_Navigation/FizzBuzzForSwift/src/test/resources
+2017-02-07 14:56:03,967 [Worker-62] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-02-07 14:56:03,968 [Worker-62] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/khjtony/Dropbox/Documents/jobs/1st_touch/Swift_Navigation/FizzBuzzForSwift/src/main/resources
+2017-02-07 14:56:03,969 [Worker-62] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-02-07 14:56:03,969 [Worker-62] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/khjtony/Dropbox/Documents/jobs/1st_touch/Swift_Navigation/FizzBuzzForSwift/src/test/resources
+2017-02-07 14:56:55,732 [Worker-65] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-02-07 14:56:55,732 [Worker-65] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/khjtony/Dropbox/Documents/jobs/1st_touch/Swift_Navigation/FizzBuzzForSwift/src/main/resources
+2017-02-07 14:56:55,735 [Worker-65] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-02-07 14:56:55,735 [Worker-65] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/khjtony/Dropbox/Documents/jobs/1st_touch/Swift_Navigation/FizzBuzzForSwift/src/test/resources
+2017-02-07 14:58:03,423 [Worker-65] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-02-07 14:58:03,423 [Worker-65] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/khjtony/Dropbox/Documents/jobs/1st_touch/Swift_Navigation/FizzBuzzForSwift/src/main/resources
+2017-02-07 14:58:03,424 [Worker-65] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-02-07 14:58:03,425 [Worker-65] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/khjtony/Dropbox/Documents/jobs/1st_touch/Swift_Navigation/FizzBuzzForSwift/src/test/resources
+2017-02-07 15:01:46,149 [Worker-71] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-02-07 15:01:46,149 [Worker-71] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/khjtony/Dropbox/Documents/jobs/1st_touch/Swift_Navigation/FizzBuzzForSwift/src/main/resources
+2017-02-07 15:01:46,152 [Worker-71] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-02-07 15:01:46,152 [Worker-71] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/khjtony/Dropbox/Documents/jobs/1st_touch/Swift_Navigation/FizzBuzzForSwift/src/test/resources
+2017-02-07 15:02:29,396 [Worker-70] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-02-07 15:02:29,396 [Worker-70] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/khjtony/Dropbox/Documents/jobs/1st_touch/Swift_Navigation/FizzBuzzForSwift/src/main/resources
+2017-02-07 15:02:29,397 [Worker-70] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-02-07 15:02:29,398 [Worker-70] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/khjtony/Dropbox/Documents/jobs/1st_touch/Swift_Navigation/FizzBuzzForSwift/src/test/resources
+2017-02-07 15:02:58,470 [Worker-61] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-02-07 15:02:58,470 [Worker-61] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/khjtony/Dropbox/Documents/jobs/1st_touch/Swift_Navigation/FizzBuzzForSwift/src/main/resources
+2017-02-07 15:02:58,471 [Worker-61] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-02-07 15:02:58,471 [Worker-61] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/khjtony/Dropbox/Documents/jobs/1st_touch/Swift_Navigation/FizzBuzzForSwift/src/test/resources
+2017-02-07 15:04:44,624 [Worker-74] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-02-07 15:04:44,624 [Worker-74] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/khjtony/Dropbox/Documents/jobs/1st_touch/Swift_Navigation/FizzBuzzForSwift/src/main/resources
+2017-02-07 15:04:44,626 [Worker-74] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-02-07 15:04:44,626 [Worker-74] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/khjtony/Dropbox/Documents/jobs/1st_touch/Swift_Navigation/FizzBuzzForSwift/src/test/resources
+2017-02-07 15:05:12,137 [Worker-73] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-02-07 15:05:12,138 [Worker-73] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/khjtony/Dropbox/Documents/jobs/1st_touch/Swift_Navigation/FizzBuzzForSwift/src/main/resources
+2017-02-07 15:05:12,139 [Worker-73] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-02-07 15:05:12,139 [Worker-73] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/khjtony/Dropbox/Documents/jobs/1st_touch/Swift_Navigation/FizzBuzzForSwift/src/test/resources
+2017-02-07 15:06:19,149 [Worker-73] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-02-07 15:06:19,149 [Worker-73] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/khjtony/Dropbox/Documents/jobs/1st_touch/Swift_Navigation/FizzBuzzForSwift/src/main/resources
+2017-02-07 15:06:19,150 [Worker-73] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-02-07 15:06:19,151 [Worker-73] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/khjtony/Dropbox/Documents/jobs/1st_touch/Swift_Navigation/FizzBuzzForSwift/src/test/resources
+2017-02-07 15:11:01,915 [Worker-75] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-02-07 15:11:01,915 [Worker-75] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/khjtony/Dropbox/Documents/jobs/1st_touch/Swift_Navigation/FizzBuzzForSwift/src/main/resources
+2017-02-07 15:11:01,916 [Worker-75] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-02-07 15:11:01,917 [Worker-75] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/khjtony/Dropbox/Documents/jobs/1st_touch/Swift_Navigation/FizzBuzzForSwift/src/test/resources
+2017-02-07 15:11:32,147 [Worker-76] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-02-07 15:11:32,147 [Worker-76] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/khjtony/Dropbox/Documents/jobs/1st_touch/Swift_Navigation/FizzBuzzForSwift/src/main/resources
+2017-02-07 15:11:32,148 [Worker-76] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-02-07 15:11:32,149 [Worker-76] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/khjtony/Dropbox/Documents/jobs/1st_touch/Swift_Navigation/FizzBuzzForSwift/src/test/resources
+2017-02-07 15:11:59,386 [Worker-76] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-02-07 15:11:59,386 [Worker-76] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/khjtony/Dropbox/Documents/jobs/1st_touch/Swift_Navigation/FizzBuzzForSwift/src/main/resources
+2017-02-07 15:11:59,388 [Worker-76] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-02-07 15:11:59,388 [Worker-76] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/khjtony/Dropbox/Documents/jobs/1st_touch/Swift_Navigation/FizzBuzzForSwift/src/test/resources
+2017-02-07 15:12:32,763 [Worker-78] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-02-07 15:12:32,764 [Worker-78] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/khjtony/Dropbox/Documents/jobs/1st_touch/Swift_Navigation/FizzBuzzForSwift/src/main/resources
+2017-02-07 15:12:32,768 [Worker-78] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-02-07 15:12:32,769 [Worker-78] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/khjtony/Dropbox/Documents/jobs/1st_touch/Swift_Navigation/FizzBuzzForSwift/src/test/resources
+2017-02-07 15:12:39,010 [Worker-79] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-02-07 15:12:39,011 [Worker-79] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/khjtony/Dropbox/Documents/jobs/1st_touch/Swift_Navigation/FizzBuzzForSwift/src/main/resources
+2017-02-07 15:12:39,012 [Worker-79] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-02-07 15:12:39,012 [Worker-79] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/khjtony/Dropbox/Documents/jobs/1st_touch/Swift_Navigation/FizzBuzzForSwift/src/test/resources
+2017-02-07 15:12:54,428 [Worker-72] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-02-07 15:12:54,428 [Worker-72] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/khjtony/Dropbox/Documents/jobs/1st_touch/Swift_Navigation/FizzBuzzForSwift/src/main/resources
+2017-02-07 15:12:54,429 [Worker-72] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-02-07 15:12:54,430 [Worker-72] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/khjtony/Dropbox/Documents/jobs/1st_touch/Swift_Navigation/FizzBuzzForSwift/src/test/resources
+2017-02-07 15:13:03,743 [Worker-77] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-02-07 15:13:03,743 [Worker-77] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/khjtony/Dropbox/Documents/jobs/1st_touch/Swift_Navigation/FizzBuzzForSwift/src/main/resources
+2017-02-07 15:13:03,744 [Worker-77] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-02-07 15:13:03,744 [Worker-77] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/khjtony/Dropbox/Documents/jobs/1st_touch/Swift_Navigation/FizzBuzzForSwift/src/test/resources
+2017-02-07 15:13:22,397 [Worker-73] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-02-07 15:13:22,397 [Worker-73] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/khjtony/Dropbox/Documents/jobs/1st_touch/Swift_Navigation/FizzBuzzForSwift/src/main/resources
+2017-02-07 15:13:22,399 [Worker-73] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-02-07 15:13:22,399 [Worker-73] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/khjtony/Dropbox/Documents/jobs/1st_touch/Swift_Navigation/FizzBuzzForSwift/src/test/resources
+2017-02-07 15:13:28,514 [Worker-78] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-02-07 15:13:28,514 [Worker-78] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/khjtony/Dropbox/Documents/jobs/1st_touch/Swift_Navigation/FizzBuzzForSwift/src/main/resources
+2017-02-07 15:13:28,516 [Worker-78] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-02-07 15:13:28,516 [Worker-78] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/khjtony/Dropbox/Documents/jobs/1st_touch/Swift_Navigation/FizzBuzzForSwift/src/test/resources
+2017-02-07 15:13:31,555 [Worker-73] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-02-07 15:13:31,555 [Worker-73] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/khjtony/Dropbox/Documents/jobs/1st_touch/Swift_Navigation/FizzBuzzForSwift/src/main/resources
+2017-02-07 15:13:31,557 [Worker-73] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-02-07 15:13:31,557 [Worker-73] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/khjtony/Dropbox/Documents/jobs/1st_touch/Swift_Navigation/FizzBuzzForSwift/src/test/resources
+2017-02-07 15:13:41,542 [Worker-73] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-02-07 15:13:41,542 [Worker-73] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/khjtony/Dropbox/Documents/jobs/1st_touch/Swift_Navigation/FizzBuzzForSwift/src/main/resources
+2017-02-07 15:13:41,543 [Worker-73] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-02-07 15:13:41,543 [Worker-73] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/khjtony/Dropbox/Documents/jobs/1st_touch/Swift_Navigation/FizzBuzzForSwift/src/test/resources
+2017-02-07 15:13:58,050 [Worker-76] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-02-07 15:13:58,050 [Worker-76] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/khjtony/Dropbox/Documents/jobs/1st_touch/Swift_Navigation/FizzBuzzForSwift/src/main/resources
+2017-02-07 15:13:58,052 [Worker-76] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-02-07 15:13:58,052 [Worker-76] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/khjtony/Dropbox/Documents/jobs/1st_touch/Swift_Navigation/FizzBuzzForSwift/src/test/resources
+2017-02-07 15:14:06,795 [Worker-72] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-02-07 15:14:06,795 [Worker-72] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/khjtony/Dropbox/Documents/jobs/1st_touch/Swift_Navigation/FizzBuzzForSwift/src/main/resources
+2017-02-07 15:14:06,797 [Worker-72] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-02-07 15:14:06,798 [Worker-72] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/khjtony/Dropbox/Documents/jobs/1st_touch/Swift_Navigation/FizzBuzzForSwift/src/test/resources
+2017-02-07 15:14:09,376 [Worker-73] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-02-07 15:14:09,377 [Worker-73] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/khjtony/Dropbox/Documents/jobs/1st_touch/Swift_Navigation/FizzBuzzForSwift/src/main/resources
+2017-02-07 15:14:09,378 [Worker-73] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-02-07 15:14:09,378 [Worker-73] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/khjtony/Dropbox/Documents/jobs/1st_touch/Swift_Navigation/FizzBuzzForSwift/src/test/resources
+2017-02-07 15:14:19,284 [Worker-73] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-02-07 15:14:19,284 [Worker-73] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/khjtony/Dropbox/Documents/jobs/1st_touch/Swift_Navigation/FizzBuzzForSwift/src/main/resources
+2017-02-07 15:14:19,285 [Worker-73] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-02-07 15:14:19,285 [Worker-73] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/khjtony/Dropbox/Documents/jobs/1st_touch/Swift_Navigation/FizzBuzzForSwift/src/test/resources
+2017-02-07 15:14:28,987 [Worker-79] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-02-07 15:14:28,987 [Worker-79] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/khjtony/Dropbox/Documents/jobs/1st_touch/Swift_Navigation/FizzBuzzForSwift/src/main/resources
+2017-02-07 15:14:28,988 [Worker-79] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-02-07 15:14:28,988 [Worker-79] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/khjtony/Dropbox/Documents/jobs/1st_touch/Swift_Navigation/FizzBuzzForSwift/src/test/resources
+2017-02-07 15:15:41,893 [Worker-76] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-02-07 15:15:41,893 [Worker-76] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/khjtony/Dropbox/Documents/jobs/1st_touch/Swift_Navigation/FizzBuzzForSwift/src/main/resources
+2017-02-07 15:15:41,894 [Worker-76] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-02-07 15:15:41,895 [Worker-76] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/khjtony/Dropbox/Documents/jobs/1st_touch/Swift_Navigation/FizzBuzzForSwift/src/test/resources
+2017-02-07 15:16:28,604 [Worker-76] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-02-07 15:16:28,604 [Worker-76] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/khjtony/Dropbox/Documents/jobs/1st_touch/Swift_Navigation/FizzBuzzForSwift/src/main/resources
+2017-02-07 15:16:28,605 [Worker-76] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-02-07 15:16:28,605 [Worker-76] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/khjtony/Dropbox/Documents/jobs/1st_touch/Swift_Navigation/FizzBuzzForSwift/src/test/resources
+2017-02-07 15:17:48,821 [Worker-82] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-02-07 15:17:48,822 [Worker-82] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/khjtony/Dropbox/Documents/jobs/1st_touch/Swift_Navigation/FizzBuzzForSwift/src/main/resources
+2017-02-07 15:17:48,823 [Worker-82] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-02-07 15:17:48,823 [Worker-82] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/khjtony/Dropbox/Documents/jobs/1st_touch/Swift_Navigation/FizzBuzzForSwift/src/test/resources
+2017-02-07 15:18:05,584 [Worker-76] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-02-07 15:18:05,585 [Worker-76] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/khjtony/Dropbox/Documents/jobs/1st_touch/Swift_Navigation/FizzBuzzForSwift/src/main/resources
+2017-02-07 15:18:05,586 [Worker-76] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-02-07 15:18:05,586 [Worker-76] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/khjtony/Dropbox/Documents/jobs/1st_touch/Swift_Navigation/FizzBuzzForSwift/src/test/resources
+2017-02-07 15:18:20,005 [Worker-81] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-02-07 15:18:20,006 [Worker-81] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/khjtony/Dropbox/Documents/jobs/1st_touch/Swift_Navigation/FizzBuzzForSwift/src/main/resources
+2017-02-07 15:18:20,007 [Worker-81] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-02-07 15:18:20,007 [Worker-81] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/khjtony/Dropbox/Documents/jobs/1st_touch/Swift_Navigation/FizzBuzzForSwift/src/test/resources
+2017-02-07 15:18:35,146 [Worker-75] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-02-07 15:18:35,146 [Worker-75] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/khjtony/Dropbox/Documents/jobs/1st_touch/Swift_Navigation/FizzBuzzForSwift/src/main/resources
+2017-02-07 15:18:35,147 [Worker-75] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-02-07 15:18:35,148 [Worker-75] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/khjtony/Dropbox/Documents/jobs/1st_touch/Swift_Navigation/FizzBuzzForSwift/src/test/resources
+2017-02-07 15:23:38,437 [Worker-82] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-02-07 15:23:38,438 [Worker-82] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/khjtony/Dropbox/Documents/jobs/1st_touch/Swift_Navigation/FizzBuzzForSwift/src/main/resources
+2017-02-07 15:23:38,439 [Worker-82] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-02-07 15:23:38,439 [Worker-82] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/khjtony/Dropbox/Documents/jobs/1st_touch/Swift_Navigation/FizzBuzzForSwift/src/test/resources
+2017-02-07 15:24:08,280 [Worker-73] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-02-07 15:24:08,281 [Worker-73] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/khjtony/Dropbox/Documents/jobs/1st_touch/Swift_Navigation/FizzBuzzForSwift/src/main/resources
+2017-02-07 15:24:08,283 [Worker-73] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-02-07 15:24:08,283 [Worker-73] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/khjtony/Dropbox/Documents/jobs/1st_touch/Swift_Navigation/FizzBuzzForSwift/src/test/resources
+2017-02-07 15:25:24,224 [Worker-79] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-02-07 15:25:24,224 [Worker-79] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/khjtony/Dropbox/Documents/jobs/1st_touch/Swift_Navigation/FizzBuzzForSwift/src/main/resources
+2017-02-07 15:25:24,226 [Worker-79] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-02-07 15:25:24,227 [Worker-79] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/khjtony/Dropbox/Documents/jobs/1st_touch/Swift_Navigation/FizzBuzzForSwift/src/test/resources
+2017-02-07 15:25:46,626 [Worker-73] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-02-07 15:25:46,626 [Worker-73] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/khjtony/Dropbox/Documents/jobs/1st_touch/Swift_Navigation/FizzBuzzForSwift/src/main/resources
+2017-02-07 15:25:46,628 [Worker-73] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-02-07 15:25:46,628 [Worker-73] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/khjtony/Dropbox/Documents/jobs/1st_touch/Swift_Navigation/FizzBuzzForSwift/src/test/resources
+2017-02-07 15:25:50,523 [Worker-82] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-02-07 15:25:50,523 [Worker-82] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/khjtony/Dropbox/Documents/jobs/1st_touch/Swift_Navigation/FizzBuzzForSwift/src/main/resources
+2017-02-07 15:25:50,524 [Worker-82] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-02-07 15:25:50,524 [Worker-82] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/khjtony/Dropbox/Documents/jobs/1st_touch/Swift_Navigation/FizzBuzzForSwift/src/test/resources
+2017-02-07 15:25:57,317 [Worker-73] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-02-07 15:25:57,318 [Worker-73] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/khjtony/Dropbox/Documents/jobs/1st_touch/Swift_Navigation/FizzBuzzForSwift/src/main/resources
+2017-02-07 15:25:57,319 [Worker-73] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-02-07 15:25:57,319 [Worker-73] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/khjtony/Dropbox/Documents/jobs/1st_touch/Swift_Navigation/FizzBuzzForSwift/src/test/resources
+2017-02-07 15:26:23,709 [Worker-73] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-02-07 15:26:23,710 [Worker-73] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/khjtony/Dropbox/Documents/jobs/1st_touch/Swift_Navigation/FizzBuzzForSwift/src/main/resources
+2017-02-07 15:26:23,711 [Worker-73] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-02-07 15:26:23,712 [Worker-73] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/khjtony/Dropbox/Documents/jobs/1st_touch/Swift_Navigation/FizzBuzzForSwift/src/test/resources
+2017-02-07 15:26:58,942 [Worker-81] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-02-07 15:26:58,942 [Worker-81] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/khjtony/Dropbox/Documents/jobs/1st_touch/Swift_Navigation/FizzBuzzForSwift/src/main/resources
+2017-02-07 15:26:58,943 [Worker-81] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-02-07 15:26:58,943 [Worker-81] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/khjtony/Dropbox/Documents/jobs/1st_touch/Swift_Navigation/FizzBuzzForSwift/src/test/resources
+2017-02-07 15:28:01,741 [Worker-81] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-02-07 15:28:01,741 [Worker-81] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/khjtony/Dropbox/Documents/jobs/1st_touch/Swift_Navigation/FizzBuzzForSwift/src/main/resources
+2017-02-07 15:28:01,742 [Worker-81] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-02-07 15:28:01,743 [Worker-81] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/khjtony/Dropbox/Documents/jobs/1st_touch/Swift_Navigation/FizzBuzzForSwift/src/test/resources
+2017-02-07 15:29:28,584 [Worker-82] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-02-07 15:29:28,585 [Worker-82] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/khjtony/Dropbox/Documents/jobs/1st_touch/Swift_Navigation/FizzBuzzForSwift/src/main/resources
+2017-02-07 15:29:28,585 [Worker-82] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-02-07 15:29:28,586 [Worker-82] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/khjtony/Dropbox/Documents/jobs/1st_touch/Swift_Navigation/FizzBuzzForSwift/src/test/resources
+2017-02-07 15:30:33,306 [Worker-81] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-02-07 15:30:33,306 [Worker-81] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/khjtony/Dropbox/Documents/jobs/1st_touch/Swift_Navigation/FizzBuzzForSwift/src/main/resources
+2017-02-07 15:30:33,307 [Worker-81] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-02-07 15:30:33,308 [Worker-81] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/khjtony/Dropbox/Documents/jobs/1st_touch/Swift_Navigation/FizzBuzzForSwift/src/test/resources
+2017-02-07 15:30:40,878 [Worker-73] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-02-07 15:30:40,879 [Worker-73] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/khjtony/Dropbox/Documents/jobs/1st_touch/Swift_Navigation/FizzBuzzForSwift/src/main/resources
+2017-02-07 15:30:40,880 [Worker-73] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-02-07 15:30:40,880 [Worker-73] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/khjtony/Dropbox/Documents/jobs/1st_touch/Swift_Navigation/FizzBuzzForSwift/src/test/resources
+2017-02-07 15:31:39,204 [Worker-84] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-02-07 15:31:39,204 [Worker-84] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/khjtony/Dropbox/Documents/jobs/1st_touch/Swift_Navigation/FizzBuzzForSwift/src/main/resources
+2017-02-07 15:31:39,208 [Worker-84] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-02-07 15:31:39,209 [Worker-84] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/khjtony/Dropbox/Documents/jobs/1st_touch/Swift_Navigation/FizzBuzzForSwift/src/test/resources
+2017-02-07 15:31:50,581 [Worker-73] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-02-07 15:31:50,582 [Worker-73] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/khjtony/Dropbox/Documents/jobs/1st_touch/Swift_Navigation/FizzBuzzForSwift/src/main/resources
+2017-02-07 15:31:50,585 [Worker-73] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-02-07 15:31:50,585 [Worker-73] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/khjtony/Dropbox/Documents/jobs/1st_touch/Swift_Navigation/FizzBuzzForSwift/src/test/resources
+2017-02-07 15:32:21,086 [Worker-73] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-02-07 15:32:21,086 [Worker-73] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/khjtony/Dropbox/Documents/jobs/1st_touch/Swift_Navigation/FizzBuzzForSwift/src/main/resources
+2017-02-07 15:32:21,091 [Worker-73] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-02-07 15:32:21,092 [Worker-73] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/khjtony/Dropbox/Documents/jobs/1st_touch/Swift_Navigation/FizzBuzzForSwift/src/test/resources
+2017-02-07 15:34:02,576 [Worker-79] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-02-07 15:34:02,576 [Worker-79] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/khjtony/Dropbox/Documents/jobs/1st_touch/Swift_Navigation/FizzBuzzForSwift/src/main/resources
+2017-02-07 15:34:02,577 [Worker-79] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-02-07 15:34:02,577 [Worker-79] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/khjtony/Dropbox/Documents/jobs/1st_touch/Swift_Navigation/FizzBuzzForSwift/src/test/resources
+2017-02-07 15:36:02,926 [Worker-85] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-02-07 15:36:02,926 [Worker-85] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/khjtony/Dropbox/Documents/jobs/1st_touch/Swift_Navigation/FizzBuzzForSwift/src/main/resources
+2017-02-07 15:36:02,927 [Worker-85] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-02-07 15:36:02,928 [Worker-85] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/khjtony/Dropbox/Documents/jobs/1st_touch/Swift_Navigation/FizzBuzzForSwift/src/test/resources
+2017-02-07 15:36:22,204 [Worker-87] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-02-07 15:36:22,205 [Worker-87] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/khjtony/Dropbox/Documents/jobs/1st_touch/Swift_Navigation/FizzBuzzForSwift/src/main/resources
+2017-02-07 15:36:22,206 [Worker-87] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-02-07 15:36:22,206 [Worker-87] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/khjtony/Dropbox/Documents/jobs/1st_touch/Swift_Navigation/FizzBuzzForSwift/src/test/resources
+2017-02-07 15:36:33,082 [Worker-86] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-02-07 15:36:33,082 [Worker-86] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/khjtony/Dropbox/Documents/jobs/1st_touch/Swift_Navigation/FizzBuzzForSwift/src/main/resources
+2017-02-07 15:36:33,083 [Worker-86] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-02-07 15:36:33,083 [Worker-86] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/khjtony/Dropbox/Documents/jobs/1st_touch/Swift_Navigation/FizzBuzzForSwift/src/test/resources
+2017-02-07 15:36:58,707 [Worker-87] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-02-07 15:36:58,707 [Worker-87] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/khjtony/Dropbox/Documents/jobs/1st_touch/Swift_Navigation/FizzBuzzForSwift/src/main/resources
+2017-02-07 15:36:58,708 [Worker-87] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-02-07 15:36:58,709 [Worker-87] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/khjtony/Dropbox/Documents/jobs/1st_touch/Swift_Navigation/FizzBuzzForSwift/src/test/resources
+2017-02-07 15:37:06,179 [Worker-81] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-02-07 15:37:06,179 [Worker-81] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/khjtony/Dropbox/Documents/jobs/1st_touch/Swift_Navigation/FizzBuzzForSwift/src/main/resources
+2017-02-07 15:37:06,180 [Worker-81] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-02-07 15:37:06,180 [Worker-81] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/khjtony/Dropbox/Documents/jobs/1st_touch/Swift_Navigation/FizzBuzzForSwift/src/test/resources
+2017-02-07 15:39:38,932 [Worker-79] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-02-07 15:39:38,933 [Worker-79] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/khjtony/Dropbox/Documents/jobs/1st_touch/Swift_Navigation/FizzBuzzForSwift/src/main/resources
+2017-02-07 15:39:38,933 [Worker-79] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-02-07 15:39:38,933 [Worker-79] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/khjtony/Dropbox/Documents/jobs/1st_touch/Swift_Navigation/FizzBuzzForSwift/src/test/resources
+2017-02-07 15:40:51,056 [Worker-84] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-02-07 15:40:51,056 [Worker-84] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/khjtony/Dropbox/Documents/jobs/1st_touch/Swift_Navigation/FizzBuzzForSwift/src/main/resources
+2017-02-07 15:40:51,057 [Worker-84] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-02-07 15:40:51,057 [Worker-84] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/khjtony/Dropbox/Documents/jobs/1st_touch/Swift_Navigation/FizzBuzzForSwift/src/test/resources
+2017-02-07 15:41:09,559 [Worker-86] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-02-07 15:41:09,560 [Worker-86] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/khjtony/Dropbox/Documents/jobs/1st_touch/Swift_Navigation/FizzBuzzForSwift/src/main/resources
+2017-02-07 15:41:09,560 [Worker-86] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-02-07 15:41:09,560 [Worker-86] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/khjtony/Dropbox/Documents/jobs/1st_touch/Swift_Navigation/FizzBuzzForSwift/src/test/resources
+2017-02-07 15:42:19,498 [Worker-81] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-02-07 15:42:19,498 [Worker-81] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/khjtony/Dropbox/Documents/jobs/1st_touch/Swift_Navigation/FizzBuzzForSwift/src/main/resources
+2017-02-07 15:42:19,500 [Worker-81] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-02-07 15:42:19,500 [Worker-81] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/khjtony/Dropbox/Documents/jobs/1st_touch/Swift_Navigation/FizzBuzzForSwift/src/test/resources

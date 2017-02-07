@@ -1,0 +1,57 @@
+package com.khjtony.FizzBuzzForSwift;
+
+import java.util.ArrayList;
+import java.util.Map;
+
+public class FizzBuzz {
+	class Atom{
+		public int raw_value;
+		public String str_value;
+	}
+	private static ArrayList<Atom> _fb = new ArrayList<Atom>();
+	private final int DEFAULT_LIMIT=1000;
+	private final boolean DEFAULT_REMEMBER = true;
+	private int limit=0;
+	private boolean remember=true;
+	
+	public static String simpleFizzBuzz(int n){
+		
+	}
+	
+	// Constructors
+	FizzBuzz(){
+		//default constructor
+		this.limit=DEFAULT_LIMIT;
+		this.remember=DEFAULT_REMEMBER;
+	}
+	FizzBuzz(int limit){
+		// configure the limit
+		// when constructed from this constructor,
+		// _fb will be filled up to the limit
+		this.limit=limit;
+		this.remember=DEFAULT_REMEMBER;
+	}
+	FizzBuzz(boolean remember){
+		this.limit=DEFAULT_LIMIT;
+		this.remember=remember;
+	}
+	
+	// public function
+	public String doFizzBuzz(int n) throws ArithmeticException{
+		if(n<0){
+			throw new ArithmeticException("Input value less than 0!");
+		}
+		return this._fb.get(n).str_value;
+	}
+	
+	// private help functions
+	private String _generate(int n){
+		if (this._fb.containsKey(n)){
+			return this._fb.get(n).str_value;
+		}else{
+			
+		}
+	}
+	
+	
+}

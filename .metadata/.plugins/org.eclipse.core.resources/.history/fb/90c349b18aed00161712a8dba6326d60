@@ -1,0 +1,23 @@
+package com.khjtony.FizzBuzzForSwift;
+
+import static org.junit.Assert.*;
+
+import org.junit.Before;
+import org.junit.Test;
+
+public class FizzBuzzTest {
+	private FizzBuzz fb= new FizzBuzz();
+	@Before
+	public void setUp() throws Exception {
+	}
+
+	@Test
+	public void test() {
+		System.out.println(fb.doFizzBuzz(1));
+		System.out.println(fb.doFizzBuzz(3));
+		System.out.println(fb.doFizzBuzz(5));
+		System.out.println(fb.doFizzBuzz(9));
+		System.out.println(fb.doFizzBuzz(11));
+	}
+
+}
