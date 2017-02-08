@@ -3,6 +3,8 @@ package com.khjtony.FizzBuzzForSwift;
 import java.util.ArrayList;
 
 public class FizzBuzz {
+	//	single node class. This class holes the raw value of fibonacci 
+	//	values and its string result.
 	class Atom{
 		Atom(long raw_value, String str_value){
 			this.raw_value=raw_value;
@@ -18,25 +20,37 @@ public class FizzBuzz {
 	private int limit=0;
 	private boolean remember=true;
 	
-	// Constructors
+	//********************Constructor********************
+	// Constructors. Will set limit and remember option to default value.
 	FizzBuzz(){
 		//default constructor
 		this.limit=DEFAULT_LIMIT;
 		this.remember=DEFAULT_REMEMBER;
 	}
+	
+	// Optional constructor that change the limit value. 
+	// Attention: when call this function, the program will generate 
+	// fibonacci values immediately.
 	FizzBuzz(int limit){
 		// configure the limit
 		// when constructed from this constructor,
 		// _fb will be filled up to the limit
 		this.limit=limit>=this.limit?limit:this.limit;
 		this.remember=DEFAULT_REMEMBER;
+		_generate(this.limit);
 	}
+	
+	// Optional constructor that change the remember option. 
 	FizzBuzz(boolean remember){
 		this.limit=DEFAULT_LIMIT;
 		this.remember=remember;
 	}
 	
-	// public functions
+	// ********************public functions********************
+	// Wrapper function serves as public function. 
+	// accept n as input parameter
+	// return the final result in String, "Fizz", "Buzz", etc
+	// throw ArithmeticException when n<0
 	public String doFizzBuzz(int n) throws ArithmeticException{
 		if(n<0){
 			throw new ArithmeticException("Input value less than 0!");
@@ -48,7 +62,11 @@ public class FizzBuzz {
 		}
 	}
 	
-	// private help functions
+	// ********************private help functions********************
+	// When remember option is disabled, this function will be call
+	// to directly calcluate the final result.
+	// Accept n as input parameter
+	// return the final result in String, "Fizz", "Buzz", etc
 	private String _quickFizzBuzz(int n){
 		if(n<1){
 			throw new ArithmeticException("Input value less than 0!"); 
@@ -67,8 +85,13 @@ public class FizzBuzz {
 		return _valueCheck(temp);
 	}
 	
+	// This function will generate and store the first nth fibonacci
+	// numbers in the ArrayList
+	// Accept n as input parameter
+	// return the final result in String, "Fizz", "Buzz", etc
 	private String _generate(int n){
 		long temp=0;
+		// if _fb<3, initialize the _fb first.
 		if(this._fb.size()<3){
 			this._fb.clear();
 			this._fb.add(new Atom(0,"0"));
@@ -77,11 +100,14 @@ public class FizzBuzz {
 		}
 		
 		try{
+			// if request nth number is larger than limit, fill in the
+			// _fb ArrayList first, and calculate the result on the fly.
 			if(n>this.limit){
-				//filling first
+				//filling ArrayList first
 				_generate(this.limit);
 				long first=this._fb.get(this._fb.size()-2).raw_value;
 				long second=this._fb.get(this._fb.size()-1).raw_value;
+				//calculate requested number on the fly
 				for (long i=this._fb.size();i<=n;i++){
 					temp=first+second;
 					first=second;
@@ -89,6 +115,8 @@ public class FizzBuzz {
 				}
 				return _valueCheck(temp);
 			}else{
+				// if request nth number is in the ArrayList,
+				// just return the result.
 				if (this._fb.size()>n){
 					if(this._fb.get(n).str_value!=""){
 						return this._fb.get(n).str_value;
@@ -97,21 +125,29 @@ public class FizzBuzz {
 						return this._fb.get(n).str_value;
 					}
 				}else{
+					// if request nth number is not in the ArrayList, generate
+					// the number and return the result.
 					for (int i=this._fb.size();i<=n;i++){
 						temp=this._fb.get(i-2).raw_value+this._fb.get(i-1).raw_value;
 						this._fb.add(new Atom(temp, ""));
 					}
 				}
+				// Only check the number when needed.
 				this._fb.get(n).str_value = _valueCheck(this._fb.get(n).raw_value);
 				return this._fb.get(n).str_value;
 			}
 			
 		}catch(Exception e){
+			// Throw the unkown error
 			System.out.println("Unkown error: "+e.getStackTrace());
 		}
 		return null;
 	}
 	
+	
+	// This function check the value, and return the string result.
+	// Accept a fibonacci number
+	// Return result in String, "Fizz", "Buzz", etc
 	private String _valueCheck(long value){
 		if(value%2==0){
 			return String.valueOf(value);
@@ -136,6 +172,10 @@ public class FizzBuzz {
 		return String.valueOf(value);
 	}
 	
+	
+	// This function will check if a number is prime number.
+	// Accept a value
+	// Return true or false in boolean
 	private boolean _isPrime(long value){
 		// though value%2==0 has been tested previously in the _valueCheck
 		// for better readability, we will check again.
